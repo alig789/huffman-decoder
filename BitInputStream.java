@@ -10,7 +10,7 @@ import java.io.IOException;
  * number of bits a multiple of 8.
  * 
  * @author Marty Stepp, Stuart Reges, Helene Martin, and Owen Astrachan
- * @version 2022-02-11 (Simplified and JavaDocs added for CS483)
+ * @version 2022-02-11 
  */
 public class BitInputStream extends InputStream {
     private InputStream input;    // actual source to read from

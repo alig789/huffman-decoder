@@ -11,7 +11,7 @@ import java.io.PrintStream;
  * number of bits a multiple of 8.
  * 
  * @author Marty Stepp, Stuart Reges, Helene Martin, and Owen Astrachan
- * @version 2022-02-11 (Simplified and JavaDocs added for CS483)
+ * @version 2022-02-11 
  */
 public class BitOutputStream extends PrintStream {
     public static final boolean DEBUG = false;   // set true for debug printlns
